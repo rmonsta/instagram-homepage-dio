@@ -1,12 +1,10 @@
 # Instagram Login Page
 
-![](C:\workspace\instagram_homepg-dio\img\responsive-rotate_689x526.png)
+![alt text](https://github.com/rmonsta/instagram-homepage-dio/blob/master/img/responsive-rotate_689x526.png?raw=true) 
+
+
 
 Recreating the Instagram login page interface using Flexbox concepts.  
-
-Mobile Screen: 
-
-![Mobile Screen](C:\workspace\instagram_homepg-dio\img\responsive_480x689_c.png)
 
 ### Requirements:
 
