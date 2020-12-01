@@ -1,10 +1,16 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Instagram Login Page
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+![](C:\workspace\instagram_homepg-dio\responsive-rotate_689x526.png)
 
-### Os requisitos são:
+Recreating the Instagram login page interface using Flexbox concepts.  
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+Mobile Screen: 
 
-## 🚀 Let's code! 🚀
+![Mobile Screen](C:\workspace\instagram_homepg-dio\responsive_480x689_c.png)
+
+### Requirements:
+
+* [Basic HTML](https://www.w3schools.com/html/)
+* [Basic CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+
+## 🚀 Let's code! 🚀 
