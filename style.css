@@ -51,7 +51,7 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    width: 380px;
+	width: 300px;
     padding: 1.3rem 0;
     border: 1px solid lightgray; 
 	border-radius: 10px; 
@@ -63,7 +63,7 @@ body {
 }
 
 .group {
-	background: linear-gradient(to top, #993399 10%, #ee7d5d 56%, #f77a9c 96%); 
+	background: linear-gradient(to top, #993399 10%, #ee7d5d 56%, #f77a9c 96%);
 }
 
 .group:nth-child(1) {
@@ -118,11 +118,11 @@ body {
 }
 
 .download {
-    display: flex;
+    display: flex; 
     width: 100%;
     justify-content: space-evenly;
     align-items: center;
-    padding: 1rem;
+    padding: 1rem; 
 }
 
 .app-download {
@@ -156,6 +156,12 @@ body {
     }
 	.instagram-wrapper {
 		display: block;
+	}
+	.download {
+		flex-direction:column;
+	}
+	.app-download {
+		margin-bottom: 10px;
 	}
 }
 
